@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danyalss
+- <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Pouya </h1>
 - 🌱 I’m currently learning ...
 
 <!---
